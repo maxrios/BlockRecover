@@ -1,0 +1,7 @@
+name: BlockRecover
+version: '${version}'
+main: me.megabot.blockrecover.BlockRecover
+api-version: 1.19
+authors: [ Megabot ]
+description: A Minecraft Spigot plugin that recovers destroyed blocks
+website: https://github.com/maxrios
